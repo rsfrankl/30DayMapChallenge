@@ -31,3 +31,5 @@ In fairness, this is a geographic non-map, but who's counting. Notably, I made t
 
 Day 30 – Map
 Documenting my Tour du Mont Blanc in (pandemic) summer 2020
+
+![TMB_final_small](https://user-images.githubusercontent.com/44196769/100950031-7925cc80-34d9-11eb-86b8-93551de4aafd.png)
