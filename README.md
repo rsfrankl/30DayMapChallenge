@@ -13,6 +13,8 @@ Self explanatory map of the US made from cheese puffs
 Day 19 – Null
 US Geography programs that have awarded PhDs to *only* men or *only* women in recent years
 
+![Geography Phds](https://user-images.githubusercontent.com/44196769/100948601-3adade00-34d6-11eb-8f9d-8c0133a5281e.png)
+
 Day 20 – Population
 Population map. Shoe population, that is.
 
