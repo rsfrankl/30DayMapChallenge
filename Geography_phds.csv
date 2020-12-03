@@ -1,0 +1,65 @@
+UnitID,Inst_Name,Latitude,Longitude,Total_All,Total_Men,Total_Women,Prop_male,Ratio,Equal_ratio
+130943,University of Delaware,39.6796,-75.7528,9,2,7,0.222,0.29,0
+209551,University of Oregon,44.0451,-123.0758,39,12,27,0.308,0.44,0
+163268,University of Maryland-Baltimore County,39.2567,-76.7116,12,4,8,0.333,0.50,0
+236948,University of Washington-Seattle Campus,47.6554,-122.3051,55,19,36,0.345,0.53,0
+186380,Rutgers University-New Brunswick,40.4988,-74.4463,54,20,34,0.370,0.59,0
+182290,University of Nevada-Reno,39.5436,-119.8154,16,7,9,0.438,0.78,0
+157085,University of Kentucky,38.0389,-84.5047,43,19,24,0.442,0.79,0
+110644,University of California-Davis,38.5397,-121.7496,75,34,41,0.453,0.83,0
+216339,Temple University,39.9805,-75.1569,11,5,6,0.455,0.83,0
+199120,University of North Carolina at Chapel Hill,35.9118,-79.0510,61,28,33,0.459,0.85,0
+214777,Pennsylvania State University-Main Campus,40.7965,-77.8628,76,35,41,0.461,0.85,0
+134097,Florida State University,30.4408,-84.2919,39,18,21,0.462,0.86,0
+137351,University of South Florida-Main Campus,28.0615,-82.4132,38,18,20,0.474,0.90,0
+123961,University of Southern California,34.0213,-118.2842,19,9,10,0.474,0.90,0
+110635,University of California-Berkeley,37.8719,-122.2605,37,18,19,0.486,0.95,0
+104179,University of Arizona,32.2327,-110.9508,84,41,43,0.488,0.95,0
+199139,University of North Carolina at Charlotte,35.3060,-80.7309,34,17,17,0.500,1.00,1
+209542,Oregon State University,44.5640,-123.2747,28,14,14,0.500,1.00,1
+233921,Virginia Polytechnic Institute and State University,37.2290,-80.4237,26,13,13,0.500,1.00,1
+181464,University of Nebraska-Lincoln,40.8176,-96.7005,20,10,10,0.500,1.00,1
+127060,University of Denver,39.6780,-104.9633,16,8,8,0.500,1.00,1
+206084,University of Toledo,41.6606,-83.6147,8,4,4,0.500,1.00,1
+134130,University of Florida,29.6463,-82.3479,58,30,28,0.517,1.07,0
+141574,University of Hawaii at Manoa,21.2986,-157.8190,27,14,13,0.519,1.08,0
+221759,The University of Tennessee-Knoxville,35.9521,-83.9259,46,24,22,0.522,1.09,0
+155399,Kansas State University,39.1886,-96.5811,34,18,16,0.529,1.13,0
+174066,University of Minnesota-Twin Cities,44.9729,-93.2355,62,33,29,0.532,1.14,0
+165334,Clark University,42.2500,-71.8234,82,44,38,0.537,1.16,0
+110705,University of California-Santa Barbara,34.4163,-119.8464,126,68,58,0.540,1.17,0
+110662,University of California-Los Angeles,34.0689,-118.4439,73,40,33,0.548,1.21,0
+228787,The University of Texas at Dallas,32.9847,-96.7497,31,17,14,0.548,1.21,0
+163286,University of Maryland-College Park,38.9882,-76.9447,85,47,38,0.553,1.24,0
+238032,West Virginia University,39.6344,-79.9544,30,17,13,0.567,1.31,0
+228459,Texas State University,29.8889,-97.9430,86,49,37,0.570,1.32,0
+142285,University of Idaho,46.7274,-117.0142,7,4,3,0.571,1.33,0
+176372,University of Southern Mississippi,31.3266,-89.3312,7,4,3,0.571,1.33,0
+104151,Arizona State University-Tempe,33.4177,-111.9344,75,43,32,0.573,1.34,0
+204796,Ohio State University-Main Campus,39.9993,-83.0149,59,34,25,0.576,1.36,0
+196413,Syracuse University,43.0402,-76.1370,31,18,13,0.581,1.38,0
+159391,Louisiana State University and Agricultural & Mechanical College,30.4150,-91.1789,84,49,35,0.583,1.40,0
+139959,University of Georgia,33.9563,-83.3740,60,35,25,0.583,1.40,0
+122409,San Diego State University,32.7753,-117.0712,36,21,15,0.583,1.40,0
+164988,Boston University,42.3511,-71.1079,46,27,19,0.587,1.42,0
+228778,The University of Texas at Austin,30.2828,-97.7383,35,21,14,0.600,1.50,0
+151351,Indiana University-Bloomington,39.1661,-86.5266,25,15,10,0.600,1.50,0
+228723,Texas A & M University-College Station,30.6187,-96.3365,47,29,18,0.617,1.61,0
+155317,University of Kansas,38.9585,-95.2476,71,44,27,0.620,1.63,0
+171100,Michigan State University,42.7321,-84.4761,50,31,19,0.620,1.63,0
+218663,University of South Carolina-Columbia,33.9968,-81.0269,43,27,16,0.628,1.69,0
+126614,University of Colorado Boulder,40.0088,-105.2708,85,54,31,0.635,1.74,0
+145637,University of Illinois at Urbana-Champaign,40.1047,-88.2291,53,34,19,0.642,1.79,0
+240444,University of Wisconsin-Madison,43.0754,-89.4041,48,31,17,0.646,1.82,0
+230764,University of Utah,40.7625,-111.8460,40,26,14,0.650,1.86,0
+196088,University at Buffalo,43.0009,-78.7895,59,39,20,0.661,1.95,0
+240453,University of Wisconsin-Milwaukee,43.0768,-87.8805,30,20,10,0.667,2.00,0
+201885,University of Cincinnati-Main Campus,39.1312,-84.5143,28,19,9,0.679,2.11,0
+207500,University of Oklahoma-Norman Campus,35.2094,-97.4442,32,22,10,0.688,2.20,0
+199148,University of North Carolina at Greensboro,36.0682,-79.8094,36,25,11,0.694,2.27,0
+153658,University of Iowa,41.6619,-91.5364,20,14,6,0.700,2.33,0
+203517,Kent State University at Kent,41.1467,-81.3425,34,24,10,0.706,2.40,0
+129020,University of Connecticut,41.8091,-72.2499,28,20,8,0.714,2.50,0
+207388,Oklahoma State University-Main Campus,36.1231,-97.0697,21,15,6,0.714,2.50,0
+147703,Northern Illinois University,41.9339,-88.7664,8,6,2,0.750,3.00,0
+151324,Indiana State University,39.4691,-87.4078,18,14,4,0.778,3.50,0
