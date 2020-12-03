@@ -39,7 +39,7 @@ US Geography programs that have awarded PhDs to *only* men or *only* women betwe
 ![Geography Phds](https://user-images.githubusercontent.com/44196769/100948601-3adade00-34d6-11eb-8f9d-8c0133a5281e.png)
 
 ## Day 20 – Population
-Population map. Shoe population, that is. Maps based on the complete decennial shoe census I conducted in April 2020. All shoes reside at only two addresses, but for fun I masked their exact location. It's a census, after all, and privacy is paramount. Data are [here](https://github.com/rsfrankl/shoe_census_2020/Shoe_count.csv).
+Population map. Shoe population, that is. Maps based on the complete decennial shoe census I conducted in April 2020. All shoes reside at only two addresses, but for fun I masked their exact location. It's a census, after all, and privacy is paramount. Data are [here](https://github.com/rsfrankl/shoe_census_2020/raw/main/Shoe_count.csv).
 
 ![Shoes_UK2](https://user-images.githubusercontent.com/44196769/100948734-87261e00-34d6-11eb-87c2-bc494e66cd4b.png)
 
