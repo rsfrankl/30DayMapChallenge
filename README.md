@@ -20,7 +20,7 @@ Population map. Shoe population, that is.
 
 ![Shoes_UK2](https://user-images.githubusercontent.com/44196769/100948734-87261e00-34d6-11eb-87c2-bc494e66cd4b.png)
 
-
+![Shoes_VT](https://user-images.githubusercontent.com/44196769/100948768-9d33de80-34d6-11eb-9385-43fe1b647538.png)
 
 Day 28 – Non-Geographic Map
 In fairness, this is a geographic non-map, but who's counting. Notably, I made this in Powerpoint, like a pro.
