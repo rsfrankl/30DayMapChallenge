@@ -3,7 +3,7 @@
 Preserving for posterity my maps for the 20% of the 2020 30 Day Map Challenge I took part in. Next year I'll aim for all 30; this was good fun. Highly recommended.
 
 ## Day 3 – Polygons
-Hand-curated county map of the US with a very important message for early November 2020. Basically, I manually selecte the counties I wanted, in order to spell "vote". Not too sophisticated.
+Hand-curated county map of the US with a very important message for early November 2020. Basically, I manually selected the counties I wanted, in order to spell "vote". Not too sophisticated.
 
 ![vote_final](https://user-images.githubusercontent.com/44196769/100946058-8b4f3d00-34d0-11eb-8433-dd45cdf0b77a.png)
 
