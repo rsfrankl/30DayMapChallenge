@@ -13,7 +13,7 @@ Self-explanatory map of the US made from cheese puffs. My apologies to the upper
 ![Map_not_gis](https://user-images.githubusercontent.com/44196769/100949850-264c1500-34d9-11eb-9777-f7c9a7ec2ce0.png)
 
 ## Day 19 – Null
-US Geography programs that have awarded PhDs to *only* men or *only* women between 2010–2019. The underlying story, of course, is around gender balance in US Geography PhD production. Every program awarded degrees to a mix of males and females, but there's a preponderance of programs that awarded more than half of PhDs during this period to males (e.g., proportion greater than 0.50). An important caveat here is that we don't observe those who started, but did not complete, a PhD. Data come from the IPEDS database: PhDs conferred in "Geography and Cartography". Data [here](30DayMapChallenge/Geography_phds.csv).
+US Geography programs that have awarded PhDs to *only* men or *only* women between 2010–2019. The underlying story, of course, is around gender balance in US Geography PhD production. Every program awarded degrees to a mix of males and females, but there's a preponderance of programs that awarded more than half of PhDs during this period to males (e.g., proportion greater than 0.50). An important caveat here is that we don't observe those who started, but did not complete, a PhD. Data come from the IPEDS database: PhDs conferred in "Geography and Cartography". Data [here](https://github.com/rsfrankl/30DayMapChallenge/raw/main/Geography_phds.csv).
 
 #### During this period, the biggest programs in terms of awarded PhDs were:
 1. UCSB (by far)
