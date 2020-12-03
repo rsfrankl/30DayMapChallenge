@@ -10,6 +10,8 @@ Hand-curated county map of the US with a very important message
 Day 12 – Map (very much) Not Made With GIS Software
 Self explanatory map of the US made from cheese puffs
 
+![Map_not_gis](https://user-images.githubusercontent.com/44196769/100949850-264c1500-34d9-11eb-9777-f7c9a7ec2ce0.png)
+
 Day 19 – Null
 US Geography programs that have awarded PhDs to *only* men or *only* women in recent years
 
