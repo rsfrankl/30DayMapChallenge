@@ -21,5 +21,7 @@ Population map. Shoe population, that is.
 Day 28 – Non-Geographic Map
 In fairness, this is a geographic non-map, but who's counting. Notably, I made this in Powerpoint, like a pro.
 
+![Non geographic map_where I've lived](https://user-images.githubusercontent.com/44196769/100948696-72498a80-34d6-11eb-8ce7-10695cc65d7d.png)
+
 Day 30 – Map
 Documenting my Tour du Mont Blanc in (pandemic) summer 2020
